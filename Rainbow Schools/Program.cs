@@ -11,7 +11,7 @@ namespace Rainbow_Schools
         {
             if (File.Exists(StudentsDataFile))
             {
-                // Read entire text file content in one string    
+                // Read entire text file content in one string  .  
                 string text = File.ReadAllText(StudentsDataFile);
                 Console.WriteLine(text);
             }
