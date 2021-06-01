@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "C3ePTJ/tMiA9ve3eqD+zcrjTs80+sxTA4qCK6+5RA3iVn199IOI2C20625posuCtwspbQCk20f9FF17vEhxbGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\amina\\Desktop\\.NET developer Course\\Rainbow Schools\\Rainbow Schools\\Rainbow Schools.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amina\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

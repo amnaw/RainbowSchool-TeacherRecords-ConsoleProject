@@ -1,0 +1,13 @@
+C:\Users\amina\Desktop\.NET developer Course\Rainbow Schools\Rainbow Schools\bin\Debug\netcoreapp3.1\Rainbow Schools.exe
+C:\Users\amina\Desktop\.NET developer Course\Rainbow Schools\Rainbow Schools\bin\Debug\netcoreapp3.1\Rainbow Schools.deps.json
+C:\Users\amina\Desktop\.NET developer Course\Rainbow Schools\Rainbow Schools\bin\Debug\netcoreapp3.1\Rainbow Schools.runtimeconfig.json
+C:\Users\amina\Desktop\.NET developer Course\Rainbow Schools\Rainbow Schools\bin\Debug\netcoreapp3.1\Rainbow Schools.runtimeconfig.dev.json
+C:\Users\amina\Desktop\.NET developer Course\Rainbow Schools\Rainbow Schools\bin\Debug\netcoreapp3.1\Rainbow Schools.dll
+C:\Users\amina\Desktop\.NET developer Course\Rainbow Schools\Rainbow Schools\bin\Debug\netcoreapp3.1\Rainbow Schools.pdb
+C:\Users\amina\Desktop\.NET developer Course\Rainbow Schools\Rainbow Schools\obj\Debug\netcoreapp3.1\Rainbow Schools.csprojAssemblyReference.cache
+C:\Users\amina\Desktop\.NET developer Course\Rainbow Schools\Rainbow Schools\obj\Debug\netcoreapp3.1\Rainbow Schools.AssemblyInfoInputs.cache
+C:\Users\amina\Desktop\.NET developer Course\Rainbow Schools\Rainbow Schools\obj\Debug\netcoreapp3.1\Rainbow Schools.AssemblyInfo.cs
+C:\Users\amina\Desktop\.NET developer Course\Rainbow Schools\Rainbow Schools\obj\Debug\netcoreapp3.1\Rainbow Schools.csproj.CoreCompileInputs.cache
+C:\Users\amina\Desktop\.NET developer Course\Rainbow Schools\Rainbow Schools\obj\Debug\netcoreapp3.1\Rainbow Schools.dll
+C:\Users\amina\Desktop\.NET developer Course\Rainbow Schools\Rainbow Schools\obj\Debug\netcoreapp3.1\Rainbow Schools.pdb
+C:\Users\amina\Desktop\.NET developer Course\Rainbow Schools\Rainbow Schools\obj\Debug\netcoreapp3.1\Rainbow Schools.genruntimeconfig.cache
