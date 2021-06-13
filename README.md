@@ -5,10 +5,10 @@
 
 ## The step-by-step process involved in completing this task:
  1. Creating new C# Windows Console Project in Visual Studio
-2. Create intial text file and fill it with Data (ID - Name - Class - Section)
+2. Create initial text file and fill it with Data (ID - Name - Class - Section)
 3. Write C# program that can access the Text file 
 4. Write code to read entire text file and display teacher data
-5. Write code to store addtional teacher data into the text file
+5. Write code to store additional teacher data into the text file
 6. Write code to update existing teacher data
 7. Write code to retrieve specific teacher data
 8. Run the program
